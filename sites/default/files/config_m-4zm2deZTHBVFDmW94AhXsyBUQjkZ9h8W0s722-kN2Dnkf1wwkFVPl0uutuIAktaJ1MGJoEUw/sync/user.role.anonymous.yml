@@ -1,0 +1,12 @@
+uuid: 8510ae5e-00ec-473c-a130-77e6e26f29f6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: j5zLMOdJBqC0bMvSdth5UebkprJB8g_2FXHqhfpJzow
+id: anonymous
+label: user
+weight: 0
+is_admin: false
+permissions:
+  - 'administer paragraphs types'

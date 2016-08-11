@@ -1,0 +1,21 @@
+uuid: fa5eeba7-4853-4143-9ca4-f77379a3aa6b
+langcode: en
+status: true
+dependencies: {  }
+id: webmaster
+label: webmaster
+weight: 2
+is_admin: null
+permissions:
+  - 'delete any article content'
+  - 'delete own article content'
+  - 'delete article revisions'
+  - 'edit any article content'
+  - 'create home content'
+  - 'delete any home content'
+  - 'delete own home content'
+  - 'delete home revisions'
+  - 'edit any home content'
+  - 'edit own home content'
+  - 'revert home revisions'
+  - 'view home revisions'

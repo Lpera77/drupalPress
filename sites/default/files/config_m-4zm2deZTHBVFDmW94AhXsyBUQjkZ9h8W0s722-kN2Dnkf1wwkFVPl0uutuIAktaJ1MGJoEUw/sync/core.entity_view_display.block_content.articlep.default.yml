@@ -1,0 +1,21 @@
+uuid: efb41c25-dc10-4c61-b024-9b2aed6db953
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.articlep
+    - field.field.block_content.articlep.body
+  module:
+    - text
+id: block_content.articlep.default
+targetEntityType: block_content
+bundle: articlep
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 0
+    settings: {  }
+    third_party_settings: {  }
+hidden: {  }
